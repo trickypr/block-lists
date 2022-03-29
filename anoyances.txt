@@ -1,0 +1,2 @@
+# WP copy protection says I always have dev tools open
+/wp-content/plugins/wccp-pro/index.js
